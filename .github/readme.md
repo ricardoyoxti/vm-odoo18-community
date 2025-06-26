@@ -4,7 +4,7 @@ Deployment automatizado de Odoo 18 en Google Cloud Platform usando GitHub Action
 
 ## 🎯 Deploy Rápido
 
-[![Deploy to GCP](https://img.shields.io/badge/Deploy%20to-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](../../actions/workflows/deploy-odoo-gcp.yml)
+[![Deploy to GCP](https://img.shields.io/badge/Deploy%20to-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](.github/workflows/deploy-odoo-gcp.yml)
 
 > **Clic en el botón de arriba para ir directamente al workflow de deployment**
 
