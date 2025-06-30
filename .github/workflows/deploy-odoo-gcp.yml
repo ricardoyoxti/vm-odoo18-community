@@ -79,7 +79,7 @@ jobs:
           --shielded-integrity-monitoring \
           --labels=environment=production,application=odoo,created-by=github-actions \
           --reservation-affinity=any \
-          --metadata-from-file startup-script=startup-script.sh \
+          --metadata-from-file startup-script=.\startup-script.sh \
           --metadata instance-name=$INSTANCE_NAME
 
     - name: 🔥 Create firewall rules
